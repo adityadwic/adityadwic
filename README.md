@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi 👋<br>I'm Aditya Dwi Cahyono, A passionate QA Engineer from Indonesia<br><br>🔭 I’m currently working on Feedloop.ai<br>🌱 I’m currently learning about <br>- Automation Testing (Cypress, RobotFramework, Katalon Studio, WebDriver.io, Selenium, etc)<br>- Performance Testing (JMeter)<br>📫 Reach out to me on LinkedIn or adityadwic.career@gmail.com<br>👨‍💻 All of my projects are available at https://sites.google.com/view/adityadwicahyono<br>📝 I regularly write articles on https://medium.com/@adityadwic<br>📄 Know about my experiences http://bit.ly/CV-QA-AdityaDwiCahyono
+Hi 👋<br>I'm Aditya Dwi Cahyono, A passionate QA Engineer from Indonesia<br><br>🔭 I’m currently working on Feedloop.ai<br>🌱 I’m currently learning about <br>- Automation Testing (Cypress, RobotFramework, Katalon Studio, WebDriver.io, Selenium, etc)<br>- Performance Testing (JMeter)<br>📫 Reach out to me on LinkedIn or adityadwic.career@gmail.com<br>👨‍💻 All of my projects are available at https://sites.google.com/view/adityadwicahyono<br>📝 I regularly write articles on https://medium.com/@adityadwic<br>📄 Know about my experiences https://bit.ly/CV-AdityaDwiCahyono-QA
 
 
 ## 🌐 Socials:
