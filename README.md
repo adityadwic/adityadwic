@@ -1,5 +1,26 @@
-# 💫 About Me:
-Hi 👋<br>I'm Aditya Dwi Cahyono, A passionate QA Engineer from Indonesia<br><br>🔭 I’m currently working on Feedloop.ai<br>🌱 I’m currently learning about <br>- Automation Testing (Cypress, RobotFramework, Katalon Studio, WebDriver.io, Selenium, etc)<br>- Performance Testing (JMeter)<br>📫 Reach out to me on LinkedIn or adityadwic.career@gmail.com<br>👨‍💻 All of my projects are available at https://sites.google.com/view/adityadwicahyono<br>📝 I regularly write articles on https://medium.com/@adityadwic<br>📄 Know about my experiences https://bit.ly/CV-AdityaDwiCahyono-QA
+# Aditya Dwi Cahyono - QA Engineer
+
+Hi 👋<br>  
+I'm Aditya Dwi Cahyono, a **QA Engineer** with more than 4 years of experience in software engineering, specializing in **QA manual and automation testing** for **web** and **mobile applications**. My experience spans across domains like **E-Commerce**, **Retail**, **Logistics**, **Healthcare**, **Rental**, **AI**, **Hospitality**, **Travel**, and **Logistic** domains.<br><br>
+
+## 🚀 Currently Working At<br>
+I'm currently working at **Mengantar**, a logistics company, where I contribute to ensuring the quality of the systems that support logistics operations.<br><br>
+
+## 🛠️ Tools & Technologies<br>
+- **Tools**: GitHub, Figma, Slack, Jira, Coda, Testrail, DBeaver, Postman, Vysor, Microsoft Word, Excel<br>
+- **Programming Languages**: Python (Selenium, Flask, etc), SQL, JavaScript, Typescript, R, Java, Swift<br>
+- **Automation Tools and Frameworks**: Cypress (Web), Katalon (Mobile and Web), WebDriver.io (Web), Robot Framework (Mobile and Web), Selenium (Mobile and Web), Appium (Mobile), Playwright (Web), Jest (API), SwiftUI<br>
+- **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, Google Cloud SQL, MongoDB<br>
+- **Database Tools**: DBeaver, PgAdmin4, Microsoft SQL Server, Google Big Query<br>
+- **Performance Testing Tools**: JMeter, K6, Postman<br>
+- **Languages**: Indonesian (Native), English (Intermediate)<br><br>
+
+## 📫 Reach Out to Me<br>
+- **LinkedIn**: [Aditya Dwi Cahyono](https://www.linkedin.com/in/adityadwicahyono/)<br>
+- **Email**: [adityadwic.career@gmail.com](mailto:adityadwic.career@gmail.com)<br>
+- **CV**: [View my CV](https://bit.ly/CV-AdityaDwiCahyono-QA)<br><br>
+
+I'm always looking to grow my personal and professional network. Feel free to connect!<br>
 
 
 ## 🌐 Socials:
