@@ -94,10 +94,10 @@ PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Google Cloud SQL
 
 ---
 
-## 📈 GitHub Snapshot
+## 📊 GitHub Snapshot
 
-![](https://github-readme-stats.vercel.app/api?username=adityadwic&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadwic&theme=dark&hide_border=true&layout=compact)
+![](https://github-readme-streak-stats.herokuapp.com/?user=adityadwic&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadwic&layout=compact&hide_border=true)
 
 ---
 
@@ -105,9 +105,8 @@ PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Google Cloud SQL
 
 - **LinkedIn**: [Aditya Dwi Cahyono](https://www.linkedin.com/in/adityadwicahyono/)
 - **Medium**: [@adityadwic](https://medium.com/@adityadwic)
-- **Portfolio**: [Personal Website](https://sites.google.com/view/adityadwicahyono/)
+- **Portfolio**: [Personal Website]([portfolio](https://adityadwic.github.io/portfolio-QA/))
 - **Email**: [adityadwic.career@gmail.com](mailto:adityadwic.career@gmail.com)
-- **CV**: [View my CV](https://bit.ly/CV-AdityaDwiCahyono-QA)
 
 ---
 
