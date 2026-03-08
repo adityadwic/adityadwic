@@ -1,48 +1,118 @@
-# Aditya Dwi Cahyono - QA Engineer
+# Hi, I'm Aditya Dwi Cahyono 👋
 
-Hi 👋<br>  
-I'm Aditya Dwi Cahyono, a **QA Engineer** with more than 4 years of experience in software engineering, specializing in **QA manual and automation testing** for **web** and **mobile applications**. My experience spans across domains like **E-Commerce**, **Retail**, **Logistics**, **Healthcare**, **Rental**, **AI**, **Hospitality**, **Travel**, and **Logistic** domains.<br><br>
+### QA Engineer | Test Automation | Performance Testing | Observability
 
-## 🚀 Currently Working At<br>
-I'm currently working at **Mengantar**, a logistics company, where I contribute to ensuring the quality of the systems that support logistics operations.<br><br>
+I build quality systems for modern products through **automation, API validation, performance testing, and CI/CD quality gates**.
 
-## 🛠️ Tools & Technologies<br>
-- **Tools**: GitHub, Figma, Slack, Jira, Coda, Testrail, DBeaver, Postman, Vysor, Microsoft Word, Excel<br>
-- **Programming Languages**: Python (Selenium, Flask, etc), SQL, JavaScript, Typescript, R, Java, Swift<br>
-- **Automation Tools and Frameworks**: Cypress (Web), Katalon (Mobile and Web), WebDriver.io (Web), Robot Framework (Mobile and Web), Selenium (Mobile and Web), Appium (Mobile), Playwright (Web), Jest (API), SwiftUI<br>
-- **Databases**: MySQL, PostgreSQL, Microsoft SQL Server, Google Cloud SQL, MongoDB<br>
-- **Database Tools**: DBeaver, PgAdmin4, Microsoft SQL Server, Google Big Query<br>
-- **Performance Testing Tools**: JMeter, K6, Postman<br>
-- **Languages**: Indonesian (Native), English (Intermediate)<br><br>
-
-## 📫 Reach Out to Me<br>
-- **LinkedIn**: [Aditya Dwi Cahyono](https://www.linkedin.com/in/adityadwicahyono/)<br>
-- **Email**: [adityadwic.career@gmail.com](mailto:adityadwic.career@gmail.com)<br>
-- **CV**: [View my CV](https://bit.ly/CV-AdityaDwiCahyono-QA)<br><br>
-
-I'm always looking to grow my personal and professional network. Feel free to connect!<br>
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/adityadwicahyono) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@@adityadwic) 
-
-# 💻 Tech Stack:
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=adityadwic&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=adityadwic&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadwic&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=adityadwic&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=adityadwic&limit=5&theme=dark&combine_all_yearly_contributions=true)
+With 4+ years of experience in software quality, I’ve worked across **web and mobile applications** in domains like **E-Commerce, Retail, Logistics, Healthcare, Rental, AI, Hospitality, and Travel**.
 
 ---
-[![](https://visitcount.itsvg.in/api?id=adityadwic&icon=0&color=1)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## ✨ About Me
+
+I’m a QA Engineer who enjoys turning testing into a scalable engineering practice, not just a release checklist.
+
+My work focuses on:
+- building maintainable **E2E and API automation frameworks**
+- validating system reliability through **performance and observability**
+- improving release confidence with **CI/CD-integrated quality gates**
+- collaborating across product, engineering, and operations teams
+
+I’m especially interested in the intersection of:
+**quality engineering, automation architecture, system reliability, and developer workflow**.
+
+---
+
+## 🚀 What I'm Working On
+
+Right now, I’m building and refining projects around:
+
+- **Playwright + BDD automation**
+- **API and microservice quality engineering**
+- **k6 performance testing**
+- **synthetic monitoring**
+- **GitHub Actions based QA pipelines**
+- **observability-driven validation with Prometheus and Grafana**
+
+---
+
+## 🧪 Featured Projects
+
+### 🔹 [E2E Automation Microservice](https://github.com/adityadwic/e2e-automation-microservice)
+A microservice quality engineering blueprint covering:
+- unit, contract, API, E2E, and performance testing
+- Playwright, Pact, Supertest, and k6
+- Prometheus and Grafana observability
+- GitHub Actions quality gates
+
+### 🔹 [Playwright BDD E2E Automation](https://github.com/adityadwic/playwright-bdd-e2e-automation)
+A production-style automation framework built with:
+- Playwright
+- Cucumber.js
+- TypeScript
+- Page Object Model
+- Docker and GitHub Actions
+
+### 🔹 [K6 Performance Observatory](https://github.com/adityadwic/k6-performance-observatory)
+A performance engineering project focused on:
+- automated load testing with k6
+- SLA validation
+- Prometheus/Grafana correlation
+- reporting and notification workflow
+
+### 🔹 [Playwright Synthetic Monitoring](https://github.com/adityadwic/playwright-synthetic-monitoring)
+A synthetic monitoring framework that automates:
+- API health checks
+- end-to-end user journey validation
+- scheduled execution through GitHub Actions
+
+### 🔹 [Fullstack API Automation](https://github.com/adityadwic/fullstack-API-automation)
+An API automation framework for:
+- regression testing
+- negative testing
+- environment-based execution
+- CI-ready reporting
+
+---
+
+## 🛠 Tech I Work With
+
+**Automation & Testing**  
+Playwright, Cypress, Selenium, Appium, Robot Framework, WebdriverIO, Katalon, Postman, Jest
+
+**Performance & Observability**  
+k6, JMeter, Prometheus, Grafana
+
+**Languages**  
+TypeScript, JavaScript, Python, SQL, Java
+
+**Tools**  
+GitHub Actions, Docker, Jira, Slack, TestRail, DBeaver, Figma, Coda
+
+**Databases**  
+PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Google Cloud SQL
+
+---
+
+## 📈 GitHub Snapshot
+
+![](https://github-readme-stats.vercel.app/api?username=adityadwic&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=adityadwic&theme=dark&hide_border=true&layout=compact)
+
+---
+
+## 🌍 Connect With Me
+
+- **LinkedIn**: [Aditya Dwi Cahyono](https://www.linkedin.com/in/adityadwicahyono/)
+- **Medium**: [@adityadwic](https://medium.com/@adityadwic)
+- **Portfolio**: [Personal Website](https://sites.google.com/view/adityadwicahyono/)
+- **Email**: [adityadwic.career@gmail.com](mailto:adityadwic.career@gmail.com)
+- **CV**: [View my CV](https://bit.ly/CV-AdityaDwiCahyono-QA)
+
+---
+
+## 🤝 Let’s Connect
+
+I’m always happy to connect with people in **QA, SDET, software engineering, and product technology**.
+
+Thanks for stopping by.
