@@ -105,7 +105,7 @@ PostgreSQL, MySQL, MongoDB, Microsoft SQL Server, Google Cloud SQL
 
 - **LinkedIn**: [Aditya Dwi Cahyono](https://www.linkedin.com/in/adityadwicahyono/)
 - **Medium**: [@adityadwic](https://medium.com/@adityadwic)
-- **Portfolio**: [Personal Website]([portfolio](https://adityadwic.github.io/portfolio-QA/))
+- **Portfolio**: [Personal Website](https://adityadwic.github.io/portfolio-QA/)
 - **Email**: [adityadwic.career@gmail.com](mailto:adityadwic.career@gmail.com)
 
 ---
